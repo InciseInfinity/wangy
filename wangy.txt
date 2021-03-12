@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+class wangy
+{
+  public static void main(String[] args)
+  {
+    Scanner input = new Scanner(System.in);
+    
+    System.out.println("Input subject: ");
+    String subject = input.next();
+    
+    System.out.println(subject + "...... " + subject  + " 📷 📷 📷 WANGY WANGY WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaaah baunya " + subject + " wangi aku mau nyiumin aroma wanginya KEQING AAAAAAAAH ~~ Rambutnya.... aaah rambutnya juga pengen aku elus-elus ~ AAAAAH " + subject + " 📷 📷 📷 manis banget AAAAAAAAH
+    \nTATAPAN " + subject + " BEGITU MENGGODAAAAAAAAA............ GUA RELA JADI BUDAK SIMP HANYA DEMI " + subject + " TERDJINTA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH
+    \napa ? " + subject " itu gak nyata ? Cuma karakter 2 dimensi katamu ? nggak, ngak ngak ngak ngak NGAAAAAAAAK GUA GAK PERCAYA ITU DIA NYATA !! GUA GAK PEDULI SAMA KENYATAAN POKOKNYA GAK PEDULI. " + subject + " ngeliat gw ... " + subject + " NGELIATIN GW! " + subject + "... kamu percaya sama aku ? aaaaaaaaaaah syukur " + subject + " gak malu memiliki aku aaaaaah 📷 📷 📷 YEAAAAAAAAAAAH GUA MASIH PUNYA " + subject + ", " + subject + " AKU SAYANG " + subject + " AKU CINTA " + subject + " AKU AKU INGIN " + subject + " MENJADI BIDADARIKUUUUUUU!!!!!!!!!!!!!
+    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!!!!!!!!!!!!!!!!!!!!!!");
+  }
+}
